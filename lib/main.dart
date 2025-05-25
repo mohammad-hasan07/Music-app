@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:music_app/theme/colors.dart';
-import 'package:music_app/view/dashboard/dashboard_screen.dart';
+import 'package:music_app/view/screens/dashboard/dashboard_screen.dart';
 import 'package:music_app/view_model/service_view_model.dart';
 import 'firebase_options.dart';
 import 'helper/di.dart';

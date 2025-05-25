@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:music_app/util/images.dart';
-import 'package:music_app/view/home/HomeScreen.dart';
+import '../home/HomeScreen.dart';
 
 class DashboardScreen extends StatefulWidget {
   const DashboardScreen({super.key});

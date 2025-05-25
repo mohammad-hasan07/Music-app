@@ -6,9 +6,9 @@ import 'package:music_app/util/images.dart';
 import 'package:music_app/view/base/button.dart';
 import 'package:music_app/view/base/input_field.dart';
 import 'package:music_app/view/base/loader.dart';
-import 'package:music_app/view/home/widgets/MusicCard.dart';
+import 'package:music_app/view/screens/home/widgets/MusicCard.dart';
 import 'package:provider/provider.dart';
-import '../../view_model/service_view_model.dart';
+import '../../../view_model/service_view_model.dart';
 import 'ServiceDetailScreen.dart';
 
 class HomeScreen extends StatefulWidget {
